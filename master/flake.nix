@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-cello-master.flake = false;
+  inputs.src-cello-master.ref   = "refs/heads/master";
   inputs.src-cello-master.owner = "andreaferretti";
-  inputs.src-cello-master.ref   = "master";
   inputs.src-cello-master.repo  = "cello";
   inputs.src-cello-master.type  = "github";
   
