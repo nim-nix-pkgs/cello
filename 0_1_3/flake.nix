@@ -11,6 +11,7 @@
   inputs.src-cello-0_1_3.ref   = "refs/tags/0.1.3";
   inputs.src-cello-0_1_3.owner = "andreaferretti";
   inputs.src-cello-0_1_3.repo  = "cello";
+  inputs.src-cello-0_1_3.dir   = "";
   inputs.src-cello-0_1_3.type  = "github";
   
   inputs."spills".owner = "nim-nix-pkgs";
