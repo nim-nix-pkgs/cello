@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1648163625,
-        "narHash": "sha256-9ysd4BZrFZukIIUAcVvj6qUts8jLtisMTpM5g7NKj/4=",
+        "lastModified": 1650750601,
+        "narHash": "sha256-tDbKm1D3WskVtABirH8jlRYwrRO3CKO3sSVCImG+Vao=",
         "owner": "nim-nix-pkgs",
         "repo": "spills",
-        "rev": "c4ed8f29ad1a38a2457bf020ea406c894cb4b8e6",
+        "rev": "6ece03563131b51a102e3aa5720fb8ae25f64454",
         "type": "github"
       },
       "original": {
